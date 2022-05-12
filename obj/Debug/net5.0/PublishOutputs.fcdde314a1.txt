@@ -1,0 +1,11 @@
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\wcBot.exe
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\wcBot.dll
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\wcBot.deps.json
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\wcBot.runtimeconfig.json
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\wcBot.pdb
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2100181\Documents\TEMP\wcBot\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
